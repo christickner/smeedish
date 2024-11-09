@@ -40,7 +40,7 @@ Encrypted Text: `h3E#lL2 ow4O#rL d6`
 
 ## Usage
 
-To encrypt text using Smeedish, follow these steps:
+To start using SMeedish in the language of your choice, use one of our SDKs here: https://github.com/christickner/smeedish-sdks.git
 
 1. Clone the repository:
    ```bash
