@@ -32,7 +32,7 @@ The Smeedish encryption algorithm is designed to be simple yet effective. Hereâ€
    - Remove non-lowercase letters: `hello world`
    - Strip whitespace: `hello world`
    - Insert random characters: `h2e@ll#o w4o#rld`
-   - Transform (example): `h3E#lL2 ow4O#rL d6`
+   - Transform (example): `h3e#lLl2 ow4O#rL d6`
 
 Encrypted Text: `h3E#lL2 ow4O#rL d6`
 
